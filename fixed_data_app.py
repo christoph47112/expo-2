@@ -552,8 +552,5 @@ else:
 
 # Füge eine Fußzeile hinzu
 st.markdown("---")
-st.markdown("""
-<div style="text-align: center; color: #888;">
-    <p>Entwickelt mit Streamlit • Exponentielle Glättung 1. Ordnung</p>
-</div>
-""", unsafe_allow_html=True)
+st.markdown("⚠️ **Hinweis:** Diese Anwendung speichert keine Daten und hat keinen Zugriff auf Ihre Dateien.")
+st.markdown("🌟 **Erstellt von Christoph R. Kaiser mit Hilfe von Künstlicher Intelligenz.**")
